@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0](https://github.com/dpomerleano-stats/test-mkdocs/compare/v0.2.0...v0.3.0) (2024-07-31)
+
+
+### Features
+
+* rename config to release-please-manifest.json ([d04fd18](https://github.com/dpomerleano-stats/test-mkdocs/commit/d04fd18686074a821e5475630697ddaeb7947df9))
+* Test changelog path ([d6aff7d](https://github.com/dpomerleano-stats/test-mkdocs/commit/d6aff7d974835189d5750661e94a6476a317b136))
+
 ## [0.2.0](https://github.com/dpomerleano-stats/test-mkdocs/compare/v0.1.0...v0.2.0) (2024-07-31)
 
 
