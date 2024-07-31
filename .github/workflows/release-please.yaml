@@ -12,3 +12,5 @@ jobs:
         with:
           release-type: python
           config-file: release-please-config.json
+      - name: Copy CHANGELOG to docs directory
+        run: cp CHANGELOG.md docs/changelog.md
