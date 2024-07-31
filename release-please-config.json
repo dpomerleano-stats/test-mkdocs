@@ -1,7 +1,3 @@
 {
-  "packages": {
-    ".": {
-      "changelog-path": "docs/CHANGELOG.md"
-    }
-  }
+  "changelog-path": "docs/CHANGELOG.md",
 }
