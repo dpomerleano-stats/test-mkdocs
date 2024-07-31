@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/dpomerleano-stats/test-mkdocs/compare/v0.1.0...v0.2.0) (2024-07-31)
+
+
+### Features
+
+* Change release-please changelog path ([aefb788](https://github.com/dpomerleano-stats/test-mkdocs/commit/aefb78813cce99859363716d8219ed1f5585bb94))
+
 ## 0.1.0 (2024-07-31)
 
 
