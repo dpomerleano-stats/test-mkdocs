@@ -1,3 +1,4 @@
 {
-  "changelog-path": "docs/CHANGELOG.md"
+  "changelog-path": "docs/CHANGELOG.md",
+  ".": "0.3.0"
 }
